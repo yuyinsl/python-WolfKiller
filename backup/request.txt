@@ -1,0 +1,61 @@
+GET /Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=ClientGift.SendGift&uk=67ad835e54eea02a&tuserid=364356&giftid=9&t=Wed%20Mar%2020%2013:51:56%20GMT+0800%202013 HTTP/1.1
+Host: www.langren8.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.langren8.com/Game/LangRen1303196.swf
+Cookie: ASP.NET_SessionId=mydr0r55amod1jfdk2t52ven; UserID=230461; NickName=kennysea; webset=langren8.com
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Date: Wed, 20 Mar 2013 05:51:52 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Cache-Control: private
+Content-Type: text/xml; charset=utf-8
+Content-Length: 4
+
+true
+
+
+POST /loginaction.aspx HTTP/1.1
+Host: www.langren8.com
+Connection: keep-alive
+Content-Length: 38
+Cache-Control: max-age=0
+Origin: http://www.langren8.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Referer: http://www.langren8.com/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+username=yuyin&pwd=Sl19890920&chkun=onHTTP/1.1 200 OK
+Date: Fri, 22 Mar 2013 11:24:38 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+Set-Cookie: ASP.NET_SessionId=wiib1f3jeah2haqajau5o545; path=/; HttpOnly
+Set-Cookie: UserID=230461; path=/
+Set-Cookie: NickName=kennysea; path=/
+Set-Cookie: webset=langren8.com; path=/
+Set-Cookie: tempun=2622d2bc3be4baad; expires=Sat, 23-Mar-2013 11:24:38 GMT; path=/
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Length: 75
+
+GET /Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=ClientRoom.GetRooms_New&classid=0&t=Fri%20Mar%2022%2019:24:45%20GMT+0800%202013 HTTP/1.1
+Host: www.langren8.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+Accept: */*
+Referer: http://www.langren8.com/Game/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: ASP.NET_SessionId=wiib1f3jeah2haqajau5o545; UserID=230461; NickName=kennysea; webset=langren8.com; tempun=2622d2bc3be4baad
+

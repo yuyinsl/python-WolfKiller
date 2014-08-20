@@ -1,0 +1,163 @@
+/Service/Service.aspx?
+api_key=LJfi1j3MNfk1op23
+&method=ClientUser.GetLoginedUserInfo
+&t=Mon%20Jan%207%2014:40:43%20GMT+0800%202013
+
+
+/Service/Service.aspx?
+api_key=LJfi1j3MNfk1op23
+&method=Pay.GetPoint
+&t=Mon%20Jan%207%2014:40:43%20GMT+0800%202013
+
+ip.addr == 223.4.93.97 (ip.addr == 223.4.93.97 and http.request.method == "POST" or http.request.method == "GET")
+ip.dst == 223.4.93.97 (ip.dst == 223.4.93.97 and http.request.method == "POST" or http.request.method == "GET")
+
+ip.addr == 112.124.46.209 (ip.addr == 223.4.93.97 and http.request.method == "POST" or http.request.method == "GET")
+ip.dst == 112.124.46.209 (ip.dst == 223.4.93.97 and http.request.method == "POST" or http.request.method == "GET")
+
+
+
+凶残的女巫：	1850c4c85c939cae	259651
+		1850c4c85ca23820
+
+kennysea:	eadf19ac5d7831b2	230461
+念夏❤惜：	d82d81e1b731a5de	261631
+ksxyh: 	ksxyh
+沈惜风：		37925ba386655a7d	261625
+ksxyhyy:	e07a613c867009e3	261628	
+kenny_sun:	81e684ae7699ea4a	270495
+
+0224:		297cadc583e3fec2	257750
+e07a613c86700b1b
+error：	e07a613c86701449
+
+
+usergrade : leader,Knife,act
+userscore :charm,Fame
+usergamestat: Runaway
+
+买道具：
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=ClientDaoJu.BuyDaoJu&uk=d82d81e1b731a5de&DaoJuid=4&t=Wed%20Jan%209%2013:58:40%20GMT+0800%202013
+
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=ClientDaoJu.BuyDaoJu&uk=d82d81e1b731a5de&DaoJuid=14
+
+送礼物：
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=ClientGift.SendGift&uk=16f0f4cb1d4e6a2e&tuserid=261625&giftid=1
+&t=Wed%20Jan%209%2014:19:52%20GMT+0800%202013
+
+个人信息：
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=ClientUser.GetLoginedUserInfo
+4934,102,182790
+抽奖链接：
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=ClientChouJiang.Start&uk=16f0f4cb1d4e6a2e
+
+GET /Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=ClientChouJiang.Start&uk=d82d81e1b731a5de&t=Mon%20Jan%207%2018:18:33%20GMT+0800%202013 HTTP/1.1\r\n
+
+房间名字：
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=ClientRoom.GetRoomsByClass&classid=4
+
+个人图片：
+http://www.langren8.com/game/images/avatar/142357.png?t=2013-01-03T02:13:17+08:00
+
+好友：
+http://www.langren8.com/Game/showdialogs/myfriend.aspx?uk=eadf19ac5d7831b2
+
+黑名单:
+lost'book,想吃饭了,毛毛ki,淡淡女人香,羽墨。
+酱油靓0.0,Star丿 小天,≮｀佳ˇ期ˇ如ˇ梦′≯,谁家的蠢羊,某個你﹏ღ,小呆酱。
+
+ 
+uk=67ad835e54eea02a&t=Mon Jan 7 17:21:47 GMT+0800 2013
+
+uk=67ad835e54eea02a&t=Mon Jan 7 17:21:47 GMT+0800 2013
+uk=67ad835e54eea02a
+
+
+礼物：
+http://www.langren8.com/Game/gift/8.swf
+http://www.langren8.com/biaoqing/062.swf
+http://www.langren8.com/biaoqing/082.swf
+
+签到
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=UserGuanZhu.Login&uk=***
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=UserGuanZhu.Play&uk=***
+
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=UserGuanZhu.Get&uk=eadf19ac5d7831b2&t=Mon%20Mar%2011%2010:56:07%20GMT+0800%202013
+
+注册帐号：
+http://www.langren8.com/Service/service.aspx?api_key=LJfi1j3MNfk1op23&method=User.Reg&un=wolfkiller0&nn=wolfkiller0&qq=982932568&tel=&pwd=wolfkiller0&email=wolfkiller@126.com&sex=true&body=1&head=1&hair=1&eye=1&eyebrow=1&ear=1&nose=1&mouth=1&tjid=0
+
+
+
+
+发喇叭
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=ClientUser.UseGold&uk=eadf19ac5d7831b2&gold=1&dalaba=1
+
+排行：
+http://www.langren8.com/Game/showdialogs/smpm_my.aspx?uk=eadf19ac5d7831b2
+
+
+login:
+http://www.langren8.com/
+http://www.langren8.com/game/play.aspx
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=Gift.GetGifts
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=Pay.GetPoint
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=Pay.GetVIP
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=DaoJu.GetDaoJu
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=ClientUser.GetLoginedUserInfo
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=ClientRoom.GetRooms_New&classid=0
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=Information.GetTopCount&typeid=0&count=8
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=ClientRoom.GetHallServer
+
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=UserGuanZhu.Get&uk=eadf19ac5d7831b2
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=SystemShow.GetNaHan&uk=eadf19ac5d7831b2
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=SystemShow.GetJinYan&uk=eadf19ac5d7831b2
+
+http://www.langren8.com/Game/showdialogs/zx_client.aspx?uk=eadf19ac5d7831b2
+
+公会排名：
+http://www.langren8.com/Game/showdialogs/pmhzl.aspx
+http://www.langren8.com/Game/showdialogs/smpm_my.aspx?uk=50d90e4f21c06a83
+
+
+http://www.langren8.com/Service/Service.aspx?api_key=LJfi1j3MNfk1op23&method=ClientUser.CheckInRoom&uk=eadf19ac5d7831b2&rid=188
+
+
+
+n 	An=5n(n-1)/2+18		An=10000*(2**(n-1)-1)
+
+3	33				
+
+
+
+100元1000金币，送800金币 
+200元2000金币，送2000金币
+300元3000金币，送5000金币
+400元4000金币，送10000金币
+500元5000金币，送16000金币
+
+
+
+
+
+
+POST /regaction2013.aspx HTTP/1.1
+Host: www.langren8.com
+Connection: keep-alive
+Content-Length: 216
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Origin: http://www.langren8.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31
+Content-Type: application/x-www-form-urlencoded
+Referer: http://www.langren8.com/reg2013.aspx
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: ASP.NET_SessionId=j0lgfijipk4dheq0ubjmft45; UserID=2debb3cee73a5110574e119b9f9275efb824cf6f015893f6; NickName=19631c717820dd7748263547463679457f1cbaaa098dc314; webset=langren8.com
+
+account=streem1000&nickname=streem1000&sex=1&password=streem1&password1=streem1&qq=123456789&email=streem1%40126.com&mobile=&Submit=%E4%B8%80%E5%88%87%E5%B0%B1%E7%BB%AA%EF%BC%8C%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C%EF%BC%81
+
+http://www.langren8.com/Game/showdialogs/smpm.aspx?key=getgift&uk=50d90e4f21c06a83
+
+
